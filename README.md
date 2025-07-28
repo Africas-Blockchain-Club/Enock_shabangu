@@ -1,1 +1,3 @@
-# Enock_shabangu
+contributors for votingsystem.sol
+# Ntokozo
+# Kenneth 
